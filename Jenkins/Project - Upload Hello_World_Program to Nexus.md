@@ -44,7 +44,8 @@ pipeline {
                     packaging: "zip"
                   ]
                 ]
-              ]             }
+              ]             
+             }
         }
     }
 }
