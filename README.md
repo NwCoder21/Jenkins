@@ -14,3 +14,6 @@ I will be using this repository to document my learning around Jenkins, Groovy a
 
 * How to Update [VirtualBox](https://youtu.be/WIRXoRVqHHo)
 
+* [How to add more CPU cores to Virtual Machine in VirtualBox](https://www.youtube.com/watch?v=42769_AGbx8)
+
+* [How to use Windows Sandbox - a lightweight virtual machine](https://www.youtube.com/watch?v=UywHb0rOHVI) 
