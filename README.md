@@ -27,3 +27,11 @@ I will be using this repository to document my learning around Jenkins, Groovy a
   5. View the 'Attribute' tab at the bottom of the window
   6. Now you can move the slider for the size you wish to select to change your hard disk to
   7. Select 'Apply' 
+
+Then follow instructions from this [video](https://www.youtube.com/watch?v=7Aqx-VHv2_k) from the 03:40 mark.
+
+When trying to Extend Volumn, if this option is greyed out, follow the below [instructions](https://helpdeskgeek.com/windows-11/extend-volume-option-grayed-out-in-windows-try-these-5-fixes/):
+
+![image](https://user-images.githubusercontent.com/107522496/233228783-933eb06b-a940-44fc-9ad4-61a8b6a65d7d.png)
+
+Link for the above article is [here](https://helpdeskgeek.com/windows-11/extend-volume-option-grayed-out-in-windows-try-these-5-fixes/)
