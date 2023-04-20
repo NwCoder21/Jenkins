@@ -37,3 +37,5 @@ When trying to Extend Volumn, if this option is greyed out, follow the below [in
 ![image](https://user-images.githubusercontent.com/107522496/233228783-933eb06b-a940-44fc-9ad4-61a8b6a65d7d.png)
 
 Link for the above article is [here](https://helpdeskgeek.com/windows-11/extend-volume-option-grayed-out-in-windows-try-these-5-fixes/)
+
+* [How to get menu bar to appear again](https://superuser.com/questions/1176587/i-hid-the-menu-bar-in-virtualbox-how-to-show-it-again)
