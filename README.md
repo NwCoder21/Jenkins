@@ -18,7 +18,7 @@ I will be using this repository to document my learning around Jenkins, Groovy a
 
 * [How to use Windows Sandbox - a lightweight virtual machine](https://www.youtube.com/watch?v=UywHb0rOHVI) 
 
-* When starting a VM, if you see a black screen after inital boot up process: https://www.youtube.com/watch?v=57U2sTzlfuM
+* When starting a VM, if you see a black screen after initial boot up process: https://www.youtube.com/watch?v=57U2sTzlfuM
 
 * How to update disk size:
 
