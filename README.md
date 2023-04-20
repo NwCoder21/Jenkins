@@ -17,3 +17,13 @@ I will be using this repository to document my learning around Jenkins, Groovy a
 * [How to add more CPU cores to Virtual Machine in VirtualBox](https://www.youtube.com/watch?v=42769_AGbx8)
 
 * [How to use Windows Sandbox - a lightweight virtual machine](https://www.youtube.com/watch?v=UywHb0rOHVI) 
+
+* How to update disk size:
+
+  1. Select 'File' in the top left of the VirtualBox Manager
+  2. Select 'Virtual Media Manager...'
+  3. Pick the Hard Disk .vdi you wish to increase
+  4. Right Click and select 'Properties' (or just select the properties option above)
+  5. View the 'Attribute' tab at the bottom of the window
+  6. Now you can move the slider for the size you wish to select to change your hard disk to
+  7. Select 'Apply' 
