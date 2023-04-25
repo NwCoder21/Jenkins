@@ -20,7 +20,9 @@ I will be using this repository to document my learning around Jenkins, Groovy a
 
 * When starting a VM, if you see a black screen after initial boot up process: https://www.youtube.com/watch?v=57U2sTzlfuM
 
-* How to update disk size:
+* How to update disk size of a Ubuntu Machine on VirtualBox - [VirtualBox: How to Increase Disk Size (Windows Host) Ubuntu VM](https://youtu.be/fUdrvTL726E):
+
+* How to update disk size of a Windows Machine on VirtualBox:
 
   1. Select 'File' in the top left of the VirtualBox Manager
   2. Select 'Virtual Media Manager...'
