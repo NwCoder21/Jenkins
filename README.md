@@ -41,3 +41,5 @@ When trying to Extend Volumn, if this option is greyed out, follow the below [in
 Link for the above article is [here](https://helpdeskgeek.com/windows-11/extend-volume-option-grayed-out-in-windows-try-these-5-fixes/)
 
 * [How to get menu bar to appear again](https://superuser.com/questions/1176587/i-hid-the-menu-bar-in-virtualbox-how-to-show-it-again)
+
+* How to remove Java Open JDK from [Ubuntu](https://linuxhint.com/uninstall-java-ubuntu/) 
