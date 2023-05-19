@@ -43,3 +43,5 @@ Link for the above article is [here](https://helpdeskgeek.com/windows-11/extend-
 * [How to get menu bar to appear again](https://superuser.com/questions/1176587/i-hid-the-menu-bar-in-virtualbox-how-to-show-it-again)
 
 * How to remove Java Open JDK from [Ubuntu](https://linuxhint.com/uninstall-java-ubuntu/) 
+* [What are the main differences between VirtualBox networking types?](https://askubuntu.com/questions/95022/what-are-the-main-differences-between-virtualbox-networking-types)
+
