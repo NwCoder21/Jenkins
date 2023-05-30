@@ -47,3 +47,5 @@ Link for the above article is [here](https://helpdeskgeek.com/windows-11/extend-
 * How to remove Java Open JDK from [Ubuntu](https://linuxhint.com/uninstall-java-ubuntu/) 
 * [What are the main differences between VirtualBox networking types?](https://askubuntu.com/questions/95022/what-are-the-main-differences-between-virtualbox-networking-types)
 
+* FIXED: No Internet VirtualBox | Works for all Operation [Systems](https://www.youtube.com/watch?v=eWeMQpllAK8)
+
